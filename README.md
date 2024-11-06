@@ -17,5 +17,4 @@ Data Analysis Mathematics, Algorithms and Modeling
 7. Move all files downloaded from Kaggle dataset in the "Dataset" Directory
 
 ### Update Requirements.txt file once installing new packages
-
 ```pip freeze > requirements.txt```
